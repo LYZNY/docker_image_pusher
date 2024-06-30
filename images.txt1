@@ -1,0 +1,3 @@
+alpine
+kasmweb/ningx:
+python:alpine3.19
